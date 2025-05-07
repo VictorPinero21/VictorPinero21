@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=VictorPinero21&show_icons=true&theme=radical" width="48%" height="200px"/>
 </div>
 
+
 ---
 
 ## 🌐 Conéctate conmigo:
