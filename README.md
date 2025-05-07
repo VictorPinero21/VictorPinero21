@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 🚀 Tecnologías y Herramientas:
 
-![Lenguajes](https://skillicons.dev/icons?i=php,js,ts,boostrap5,tailwind,html,css) ![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,laravel) ![Bases de Datos](https://skillicons.dev/icons?i=mysql,postgres) ![Herramientas](https://skillicons.dev/icons?i=git,vscode,)
+![Lenguajes](https://skillicons.dev/icons?i=php,js,ts,html,css) ![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,laravel,bootstrap,tailwind) ![Bases de Datos](https://skillicons.dev/icons?i=mysql,postgres) ![Herramientas](https://skillicons.dev/icons?i=git,vscode,)
 
 ---
 
