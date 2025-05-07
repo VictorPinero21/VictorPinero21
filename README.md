@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🚀 Tecnologías y Herramientas:
+
+![Lenguajes](https://skillicons.dev/icons?i=js,ts,python,java,html,css,c,cpp)  
+![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,spring)  
+![Bases de Datos](https://skillicons.dev/icons?i=mysql,postgres,mongodb)  
+![Herramientas](https://skillicons.dev/icons?i=git,docker,vscode,linux)  
+
+---
+
+## 📊 Estadísticas:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)  
+
+---
+
+## 🌐 Conéctate conmigo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](TU_TWITTER) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](TU_PORTFOLIO)
