@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 ## 📊 Estadísticas:
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPinero21&layout=compact&theme=radical" width="48%" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorPinero21&show_icons=true&theme=radical" width="48%" height="200px"/>
-</div>
+
+ ![GitHub Stats Card](https://ghstats.dev/api/card?username=VictorPinero21&border_radius=5&custom_title=GitHub+Stats)
+[<img src="https://github-readme-stats.vercel.app/api?username=VictorPinero21&show_icons=true&theme=radical" width="48%" height="200px"/>](https://ghstats.dev/api/langs?username=VictorPinero21&custom_title=GitHub+Stats&max_langs=5&layout=donut_vertical)
+
 
 
 ---
