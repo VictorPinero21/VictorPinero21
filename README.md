@@ -2,6 +2,9 @@
 ### Repositorio de mi camino a Cloud/Devops
 [Ver Repositorio](https://github.com/VictorPinero21/devops-journey)
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-pinero-ollero/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://victorpinero.dev)
+
 <!-- tech-stack-icons:start -->
 ## Tech Stack
 
@@ -115,11 +118,6 @@
 </div>
 
 
----
-
-## 🌐 Conéctate conmigo:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-pinero-ollero/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https)
 
 
 
